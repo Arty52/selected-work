@@ -14,6 +14,7 @@ A lot of the systems I build are private. This repo gives a clear public view of
 
 - [Biography-Ai](./projects/biography-ai.md) - interactive memories and AI-guided storytelling
 - [ODFillin](./projects/odfillin.md) - fill-in opportunities for optometrists
+- [VectorCareIQ](./projects/vectorcareiq.md) - healthcare market intelligence for Business Strategy Analysis
 
 ## What you will find here
 
