@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/work-banner.png" alt="Selected work banner" width="100%" />
+  <img src="./assets/work-banner.webp" alt="Selected work banner" width="100%" />
 </p>
 
 # Selected Work
